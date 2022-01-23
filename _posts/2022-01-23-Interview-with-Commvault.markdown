@@ -3,7 +3,7 @@ layout: post
 title: "Interview with Commvault"
 date: 2022-01-23 16:05:00 +0530
 description: My interview experience with Commvault. # Add post description (optional)
-img:  # Add image post (optional)
+img:  interview.jpeg # Add image post (optional)
 ---
 
 Interview with Commvault:
