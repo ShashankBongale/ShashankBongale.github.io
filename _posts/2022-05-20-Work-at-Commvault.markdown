@@ -14,9 +14,10 @@ As the days progressed I was introduced to the product and was assigned some tas
 
 With almost two years into development, now I own the development of a product and have significant contributions in development of a few subsystems. I should be thankful to my manager and my mentor for all their guidance throughout my journey so far as a Software Engineer here at Commvault. 
 
-Key learnings:
-	* Have a clear understanding of what is expected from you. 
-	* Have regular discussions with the manager and mentor about the progress of the work. 
-	* Always reach out for help. 
-	* Never accept things like how they are, always ask why it is implemented the way it is. 
-	* Have regular 1-on-1 meetings with the manager. 
+Key learnings:  
+
+* Have a clear understanding of what is expected from you. 
+* Have regular discussions with the manager and mentor about the progress of the work.  
+* Always reach out for help.  
+* Never accept things like how they are, always ask why it is implemented the way it is.  
+* Have regular 1-on-1 meetings with the manager. 
