@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to the blog!"
+title: "Welcome Blog"
 date: 2022-01-09 12:30:00 +0530
 description: Motivation behind coming up with this blog site. # Add post description (optional)
 img:  blog.jpeg # Add image post (optional)
