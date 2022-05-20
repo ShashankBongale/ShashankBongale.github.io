@@ -3,7 +3,7 @@ layout: post
 title: "Work Experience at Commvault"
 date: 2022-05-20 18:45:00 +0530
 description: My experience with Commvault as Software Engineer. # Add post description (optional)
-img:  workexp.jpeg # Add image post (optional)
+img: workexp.jpg # Add image post (optional)
 ---
 
 I still remember the first day of my internship - seniors informed me that my manager works out of the office in the US and my mentor works out of Hyderabad. I was scared, and started pondering how will I figure out the things here in Bangalore.   
