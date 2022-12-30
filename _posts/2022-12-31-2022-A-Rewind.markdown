@@ -1,0 +1,21 @@
+---
+layout: post
+title: "2022 - A Rewind"
+date: 2022-12-31 01:15:00 +0530
+description: Journey in 2022. # Add post description (optional)
+img: twentytwenty.jpg # Add image post (optional)
+---
+
+Been a very wonderful year with a lot of things happening. Life has finally come to routine and moving back to Bangalore has helped a lot. 
+
+Personally, it has been great, travelled more after the lockdown and got to catch up with friends. Tried exploring different places nearby or within Karnataka - Hampi, Shivamogga, Tirupati, Kanchi, and Mahabalipuram. Traveled for the first time with my PES classmates, it was really fun and got to know them more personally. Enjoyed driving my car throughout the year, so might be it was a great decision to buy it on my own after convincing my parents. This year was the first time I at least tried to concentrate a bit more on my health, started to read more about it, and tried a few times to be healthy. Failed every time to make it a routine. Anyways 2023 will be the year dedicated to health and probably clean eating (at least I hope so).  
+
+Workwise it has been really very good, started working more closely with SharePoint systems and got to know a lot about distributed systems and CPP in general. Still, a long way to go, the good thing is I am enjoying it here at Commvault. My Future goal for 2023 is to grow more as an independent software engineer and try to understand the maximum out of the systems in the team. 
+
+This was also the year where I took the decision not to perceive my master's in the US after considering all the tradeoffs. The risk involved is not making sense to me (at least for now). So the idea is to grow my career out of India and see if there are options to go to the US from work. 
+
+Started reading a good number of books this year (at least compared to last year). Atomic habits is something that had a good impact on me this year. All the things related to how our mind functions are really fascinating. 
+
+Investment wise it has been an average year, markets have just started to pick up, and hope so 2023 will be a great year. 2022 was also the year when a lot of tech stocks crashed because of the economic downturn. I really hope 2023 to be a good year investment-wise. In 2023 I need to diversify my portfolio, invest some in gold ETFs and resume investing in index funds.  
+
+
