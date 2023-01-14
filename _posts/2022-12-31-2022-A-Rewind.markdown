@@ -6,16 +6,16 @@ description: Journey in 2022. # Add post description (optional)
 img: twentytwenty.jpg # Add image post (optional)
 ---
 
-Wanted to recap the year and started writing this blog - Its been a very wonderful year with a lot of things happening. Life has finally come to routine and moving back to Bangalore has helped a lot. 
+It has been a wonderful year with many things happening. Life has settled into a routine, and moving back to Bangalore has been beneficial.
 
-Personally, it has been great, travelled more after the lockdown and got to catch up with friends. Tried exploring different places nearby or within Karnataka - Hampi, Shivamogga, Tirupati, Kanchi, and Mahabalipuram. Traveled for the first time with my PES classmates, it was really fun and got to know them more personally. Enjoyed driving my car throughout the year, so might be it was a great decision to buy it on my own after convincing my parents. This year was the first time I at least tried to concentrate a bit more on my health, started to read more about it, and tried a few times to be healthy. Failed every time to make it a routine. Anyways 2023 will be the year dedicated to health, meditation and clean eating (at least I hope so).  
+Personally, I traveled more after the lockdown and caught up with friends. I explored different places in Karnataka such as Hampi, Shivamogga, Tirupati, Kanchi, and Mahabalipuram. I also traveled for the first time with my PES classmates and got to know them more personally. I enjoyed driving my car throughout the year, which was a good decision to buy it on my own after convincing my parents. This year, I attempted to focus more on my health by reading more about it and trying to maintain a healthy lifestyle, but unfortunately, I failed to make it a routine. My goal for 2023 is to focus on health, meditation, and clean eating.
 
-Workwise it has been really very good, started working more closely with SharePoint systems and got to know a lot about distributed systems and CPP in general. Still, a long way to go, the good thing is I am enjoying it here at Commvault. My goal for 2023 is to grow more as an independent software engineer and try to understand the maximum out of the systems in the team. 
+Workwise, it has been a good year. I started working more closely with SharePoint systems and gained knowledge about distributed systems and CPP. However, there is still a lot to learn, and I am enjoying my work at Commvault. My goal for 2023 is to grow as an independent software engineer and understand the maximum out of the systems in my team.
 
-This was also the year where I took the decision not to perceive my master's in the US after considering all the tradeoffs. The risk involved is not making sense to me (at least for now). So the idea is to grow my career out of India and see if there are options to go to the US from work. 
+I also made the decision not to pursue my master's in the US after considering the tradeoffs and risks involved. Instead, my goal is to grow my career in India and explore options to go to the US through work.
 
-Started reading a good number of books this year (at least compared to last year). Atomic habits is something that had a good impact on me this year. All the things related to how our mind functions are really fascinating. 
+I also read a good number of books this year, and "Atomic Habits" had a significant impact on me. Understanding how the mind functions is fascinating.
 
-Investment wise it has been an average year, markets have just started to pick up, and hope so 2023 will be a great year. 2022 was also the year when a lot of tech stocks crashed because of the economic downturn. I really hope 2023 to be a good year investment-wise. In 2023 I need to diversify my portfolio, invest some in gold ETFs and resume investing in index funds.  
+Investment-wise, it has been an average year. The markets have started to pick up, and I hope 2023 will be a great year. 2022 was also the year when many tech stocks crashed due to the economic downturn. My goal for 2023 is to diversify my portfolio, invest in gold ETFs, and resume investing in index funds.
 
 
