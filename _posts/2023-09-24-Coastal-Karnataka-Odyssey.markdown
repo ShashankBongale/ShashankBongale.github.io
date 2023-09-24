@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Title: Coastal Karnataka Odyssey: A Road Trip to Remember"
+title: "Coastal Karnataka Odyssey: A Road Trip to Remember"
 date: 2023-09-24 09:05:00 +0530
 img:  coastalktk.jpg # Add image post (optional)
 ---
