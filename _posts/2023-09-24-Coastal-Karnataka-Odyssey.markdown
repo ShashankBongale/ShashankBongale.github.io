@@ -43,5 +43,5 @@ Finally, we began our journey back home, stopping in Subramanya for a final glim
 
 As we embarked on the journey back, a cascade of vivid memories from this remarkable road trip unfurled in our minds, like scenes from an epic film. It had been nothing short of an exhilarating odyssey, an expedition that had whisked us through a tapestry of experiences – from the tranquility of ancient temples to the embrace of dense, emerald-green forests, the allure of untouched beaches, and the enigmatic allure of hidden caves. Coastal Karnataka had cast a spell upon us, weaving its enchantment into our souls, and igniting an insatiable hunger for more adventures along the open road. A standout highlight of this unforgettable voyage was the mesmerizing drive along the coastal highway, where every twist and turn revealed breathtaking vistas that left us utterly spellbound.
 
-### Some images from the trip
-![image](files:map.jpeg)
+### Trip Map
+![map]({{site.baseurl}}/assets/img/map.jpeg)
